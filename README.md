@@ -8,11 +8,11 @@ I'm a Enterprise Resource Planning Coordinator and passionate software engineer 
 🌱 My Skills:
 
 
-Microsft Dynamic Nav
-Pic Microcontroller Programming
-Full-stack web development (HTML, CSS, JavaScript, PHP, WordPress,React JS, Node Js, Java, Python)
-Advanced software engineering concepts
-Machine Learning and Artificial Inteligence
+Microsft Dynamic Nav,
+Pic Microcontroller Programming,
+Full-stack web development (HTML, CSS, JavaScript, PHP, WordPress,React JS, Node Js, Java, Python),
+Advanced software engineering concepts,
+Machine Learning and Artificial Inteligence,
 Best practices for building scalable web and mobile applications
 
 💞️ Collaboration:
