@@ -1,2 +1,27 @@
-# Riflan_Mohamed
-This is the Home page of Riflan Mohamed User Profile
+👋 Hi, I’m @Riflan Mohamed
+👀 About Me
+I'm a Enterprise Resource Planning Coordinator and passionate software engineer and aspiring full-stack web developer. I love creating innovative solutions, teaching others about technology, and sharing my knowledge through online platforms.
+
+🌱 My Skills
+Full-stack web development (HTML, CSS, JavaScript, PHP, WordPress,React JS, Node Js, Java, Python)
+Advanced software engineering concepts
+Machine Learning and Artificial Inteligence
+Best practices for building scalable web and mobile applications
+Microsft Dynamic Nav
+
+💞️ Collaboration
+I'm looking to collaborate on projects involving:
+
+Web development (frontend and backend)
+Mobile application development
+IT services and automation solutions
+Educational content creation for software engineering
+
+📫 How to Reach Me
+Email: riflanmohamed@gmail.com
+
+😄 Pronouns
+He/Him
+
+⚡ Fun Fact
+I started my journey in software engineering with a dream to help businesses go digital, and now I'm building a platform to teach others how to code and innovate!
