@@ -19,7 +19,7 @@ I'm looking to collaborate on projects involving:
 
 📫 How to Reach Me
 Email: riflanmohamed@gmail.com
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/94754680407)
+WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/94754680407)
 
 😄 Pronouns
 He/Him
