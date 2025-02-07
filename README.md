@@ -1,4 +1,4 @@
-👋 Hi, I’m @Riflan Mohamed
+👋 Hi, I’m @riflanmohamed
 
 👀 About Me
 I'm a Enterprise Resource Planning Coordinator and passionate software engineer and aspiring full-stack web developer. I love creating innovative solutions, teaching others about technology, and sharing my knowledge through online platforms.
