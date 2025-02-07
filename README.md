@@ -1,4 +1,5 @@
 👋 Hi, I’m @Riflan Mohamed
+
 👀 About Me
 I'm a Enterprise Resource Planning Coordinator and passionate software engineer and aspiring full-stack web developer. I love creating innovative solutions, teaching others about technology, and sharing my knowledge through online platforms.
 
@@ -19,6 +20,7 @@ I'm looking to collaborate on projects involving:
 
 📫 How to Reach Me
 Email: riflanmohamed@gmail.com
+
 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/94754680407)
 
 😄 Pronouns
